@@ -1,2 +1,2 @@
-** Sistema de Telefonía IP VoIp **
+* Sistema de Telefonía IP VoIp *
 
